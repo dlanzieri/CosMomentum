@@ -1,4 +1,3 @@
-
 <-----> CosMomentum
 <-----> README version of Dec 15 2019
 
@@ -35,3 +34,12 @@
 <---> Acknowledgement
 - Please feel free to use the code for your science and publications.
 - Please cite Friedrich et al. (2019, arXiv:1912.06621) if you do so.
+
+
+
+<-----> Reminder for me
+<---> running on Jean-Zay:
+- module load gsl/2.5
+- cd cpp_code/
+- make DSS
+- ./run.sh
